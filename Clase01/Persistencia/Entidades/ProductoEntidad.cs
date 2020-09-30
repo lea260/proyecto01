@@ -17,7 +17,7 @@ namespace Persistencia.Entidades
         {
 
         }
-        ProductoEntidad p = new ProductoEntidad();
+        
         
         //public long Id_productos { get => id_productos; set => id_productos = value; }
         public long Id_productos { get => id_productos; set => id_productos = value; }
